@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for jelpitconjuntos on 2026-07-19T12:22:58Z
+# fly.toml app configuration file generated for jelp on 2026-08-19T23:04:47Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'jelpitconjuntos'
+app = 'jelp'
 primary_region = 'ams'
 
 [build]
